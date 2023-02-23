@@ -1,0 +1,7 @@
+{
+  "name": "share-plugin-reproduction-issue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
